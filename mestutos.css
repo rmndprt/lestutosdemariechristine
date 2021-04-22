@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+body 
+{
+	background-color: purple;
+}
+
+h1, h3
+{
+	color: pink;
+	text-align: center;
+	font-family: 'Courgette'
+}
+
+li
+{
+	list-style-type: none;
+	color: pink;
+	font-size: 25px
+
+}
